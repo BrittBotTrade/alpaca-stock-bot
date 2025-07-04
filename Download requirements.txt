@@ -1,0 +1,5 @@
+flask
+alpaca-trade-api
+python-dotenv
+requests
+pytz
