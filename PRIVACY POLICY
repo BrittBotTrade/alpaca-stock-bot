@@ -1,0 +1,59 @@
+# Privacy Policy for Replit Trader App
+
+**Effective Date:** July 4, 2025  
+**Owner:** Brittany Terrell
+
+This Privacy Policy explains how Replit Trader (“the App”) handles your information.
+
+---
+
+## 1. What Information Is Collected?
+
+The App **does not collect** personal data, user behavior data, or financial data directly.  
+Any data used or stored is handled by the **third-party broker (Alpaca)** which you connect via API keys.
+
+---
+
+## 2. Third-Party APIs
+
+Replit Trader uses:
+- **Alpaca API** – to execute stock trades
+- **Render** – to host backend logic
+- **Glide** – to power the mobile interface
+
+Each of these services has their own privacy policies. You are responsible for reviewing and managing your accounts with those services.
+
+---
+
+## 3. API Credentials
+
+Your API keys are stored securely via environment variables on the backend (not within the app). You are responsible for not sharing them with unauthorized users.
+
+---
+
+## 4. Security
+
+We follow best practices to prevent unauthorized access to your backend logic. However, no system is 100% secure. You use this app at your own risk.
+
+---
+
+## 5. Data Retention
+
+We do not retain user data. Any trading history is managed by Alpaca and governed by their retention policies.
+
+---
+
+## 6. Updates to This Policy
+
+We may revise this policy in the future. Continued use of the App after changes means you accept the updated terms.
+
+---
+
+## 7. Contact
+
+Questions? Email:  
+**osman_brittany@yahoo.com**
+
+---
+
+© 2025 Brittany Terrell. All Rights Reserved.
