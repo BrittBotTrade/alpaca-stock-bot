@@ -1,0 +1,13 @@
+MIT License with Copyright Notice
+
+Copyright (c) 2025 Brittany Terrell
+
+All rights reserved. Unauthorized copying, reproduction, or distribution of this software, app concept, user interface, trading logic, or any part thereof is strictly prohibited without express written permission.
+
+This software is proprietary. It includes unique logic for automated stock trading via Alpaca API, including a 9:30–9:45 breakout strategy, reversal detection, and real-time control through a connected mobile interface.
+
+Redistribution, reverse engineering, or use of the Glide prompt or any backend logic described herein without permission constitutes a violation of intellectual property rights.
+
+This license does not grant any rights to reuse or rebrand the app, Glide prompt, or backend logic in any commercial or private deployment.
+
+Contact osman_brittany@yahoo.com for usage requests.
